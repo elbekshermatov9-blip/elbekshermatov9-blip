@@ -4,11 +4,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/snake.svg" alt="Snake animation" />
 
 ###
 
