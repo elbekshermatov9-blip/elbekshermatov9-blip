@@ -4,10 +4,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Hi, I'm Elbek — Cybersecurity Enthusiast | MIS Graduate Student (In Progress) | Educator | Tech Creator</h1>
 
 ###
