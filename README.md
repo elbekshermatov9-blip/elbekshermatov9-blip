@@ -4,6 +4,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h1 align="left">Hi, I'm Elbek — Cybersecurity Enthusiast | MIS Graduate Student (In Progress) | Educator | Tech Creator</h1>
 
 ###
@@ -50,14 +58,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elbekshermatov9-blip/elbekshermatov9-blip/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
